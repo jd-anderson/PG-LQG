@@ -2,7 +2,7 @@
 
 This repository includes the code to reproduce the experimental results of the following paper:
 
-1) K. Fallah, L. F. Toso, J. Anderson (2025). [On the Gradient Domination of the LQG Problem]()
+1) K. Fallah, L. F. Toso, J. Anderson (2025). [On the Gradient Domination of the LQG Problem](https://github.com/jd-anderson/PG-LQG/blob/main/PG-LQG.pdf)
 
 ## Instructions
 
