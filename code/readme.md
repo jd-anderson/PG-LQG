@@ -7,8 +7,6 @@ Ensure that all other `.m` files are located in the **same folder/path**.
 The implementation is tuned for the parameters used to generate the manuscript figures.  
 System model, noise settings, and simulation configuration are summarized below.
 
----
-
 
 
 
